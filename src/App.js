@@ -1,11 +1,11 @@
 import './App.css';
+import {Header} from './Header';
 
 function App() {
   return (
     <div className="App">
-       <h1>Let build Linkedin clone</h1>
-
        {/* Header */}
+       <Header/>
        {/* App Body */}
        {/* SideBar */}
        {/* Feed */}
